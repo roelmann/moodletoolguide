@@ -28,6 +28,7 @@
 					<li><strong>Know what you want to achieve? </strong>Select the column and follow down to see which are the best tools to help you do it.</li>
 					<li><strong>Want to know the strengths of a specific tool? </strong>Follow its row across the guide to see what that tool is suited for, or not.</li>
 				</ul>
+				<p>You can click on the tool title for more information and help links about each tool. You can also click the icon in each panel for a pop up of the description of the panel - useful on small screens when the responsive nature of the page only shows the icon in each panel.</p>
 				<h3>Need more Moodle help</h3>
 				<ul>
 					<li>Community Forums at http://www.moodle.org</li>
