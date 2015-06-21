@@ -3,7 +3,7 @@
 			//Tool name
 			$name='title';
 			$title='<p><strong>What do you want to achieve (pedagogy)?</strong><i class="fa fa-arrow-right fa-2x" style="float:right;"></i></p><p><br /></p><p><strong>What do you want to use (technology)?</strong><i class="fa fa-arrow-down fa-2x"></i></p>';
-			$text='';
+			$text='Click on the tool title for additional info.';
 			$software='';
 
 			// Ease of Use
