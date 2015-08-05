@@ -128,6 +128,11 @@ button.panel.flexrowheader {
     -ms-flex-item-align: stretch;
     align-self: stretch;
 }
+.indexpage .flex-item {
+    -webkit-flex: 1 1 13%;
+    -ms-flex: 1 1 13%;
+    flex: 1 1 13%;
+}
 .flex-item.row-header,
 .flex-item.titlerow-header
  {
@@ -270,9 +275,12 @@ button.panel.flexrowheader {
 @media screen and (max-width: 960px) {
 	.panel-heading p {display:none;}
 	.row-header h3 {font-size:12px;}
+	.indexpage h3 {font-size:120%;}
+	.indexpage h4 {font-size:100%;}
 }
 @media screen and (max-width: 540px) {
-	.detail .flex-container {
+	.detail .flex-container,
+	.indexpage .flex-container {
 		-webkit-box-direction: normal;
 		-moz-box-direction: normal;
 		-webkit-box-orient: vertical;

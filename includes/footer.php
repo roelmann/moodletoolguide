@@ -60,7 +60,8 @@
 		</div><!-- more info -->
 	</div><!-- row -->
 	<div class="well credits">
-		<h3>Adapted by Richard Oelmann (@Oelmann_Richard) from the original Moodle Tool Guide by Joyce Seitzinger (@catspyjamasnz) and the Moodle 2 Tool Guide by Gavin Henrick (@ghenrick)</h3>
+		<h3>Adapted by Richard Oelmann (@Oelmann_Richard) from the original <a href="http://www.cats-pyjamas.net/moodle-tool-guide/ alt="Moodle Tool Guide">Moodle Tool Guide</a> by Joyce Seitzinger (@catspyjamasnz) and the <a href="http://www.somerandomthoughts.com/blog/2012/03/15/a-moodle-2-version-of-the-moodle-tool-guide/" alt="Moodle2 Tool Guide">Moodle 2 Tool Guide</a> by Gavin Henrick (@ghenrick)</h3>
+		<h3>The Moodle Tool Selector is based on the concepts and the overview of the <a href="https://dl.dropboxusercontent.com/u/423876/Moodle/Index.html" alt="Tool selector link">Tool Selection Decision Tree</a> by Alison Ruth</h3>
 		<p><img src="images/by-nc-sa.png" alt="Creative Commons licence - by, nc, sa"> As defined in the original, this work is released under a <a href="https://creativecommons.org/licenses/">Creative Commons, with attribution, non-commercial, share-alike licence.</a></p>
 	</div>
 </div><!-- footer -->

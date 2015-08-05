@@ -7,14 +7,15 @@
     <title>Moodle 2 ToolGuide</title>
 
       <!-- Bootstrap -->
-      <link href="css/bootstrap.css" rel="stylesheet">
+      <link href="./css/bootstrap.css" rel="stylesheet">
       <!-- Bootswatch - Cyborg -->
-      <link href="css/bootswatches/cyborg.css" rel="stylesheet">
+      <link href="./css/bootswatches/cyborg.css" rel="stylesheet">
       <!-- Overrides -->
-      <link href="css/toolguide.css" rel="stylesheet">
+      <link href="./css/toolguide.css" rel="stylesheet">
+      <link href="./css/toolselector.css" rel="stylesheet">
 
     <!-- Fontawesome -->
-    <link rel="stylesheet" href="fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./fontawesome/css/font-awesome.min.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
